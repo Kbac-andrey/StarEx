@@ -1,0 +1,72 @@
+/*!*-----------@mediaqueries-------------*!*/
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+    .triangleRight {
+        display: none;
+    }
+    .triangleRightPhone {
+        display: inline-block;
+    }
+
+    .triangleTopRight {
+        width: 103px;
+        transform: skew(26deg);
+    }
+}
+@media only screen
+and (min-device-width : 569px)
+and (max-device-width : 767px) {
+    .triangleRight {
+        display: none;
+    }
+    .triangleRightPhone {
+        display: inline-block;
+        right: -418px;
+        width: 225px;
+        transform: skew(-45deg);
+    }
+
+    .triangleTopRight {
+        width: 103px;
+        transform: skew(26deg);
+    }
+}
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width: 991px) {
+    .triangleRight {
+        display: none;
+    }
+    .triangleRightPhone {
+        display: inline-block;
+        right: -336px;
+        width: 300px;
+        transform: skew(-45deg);
+
+    }
+    .triangleTopRight {
+        width: 100px;
+    }
+}
+@media only screen
+and (min-device-width : 992px)
+and (max-device-width: 1023px) {
+    .triangleRight {
+        border-width: 0 0 665px 349px;
+    }
+    .triangleTopRight {
+        width: 150px;
+    }
+}
+@media only screen
+and (min-device-width: 1024px)
+and (max-device-width : 1300px){
+    .triangleRight {
+        border-width: 0 0 665px 349px;
+    }
+    .triangleTopRight {
+        width: 150px;
+    }
+
+}
