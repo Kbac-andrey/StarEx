@@ -2,52 +2,192 @@
 @media only screen
 and (min-device-width : 320px)
 and (max-device-width : 568px) {
+    #head {
+        padding-bottom: 100px;
+    }
+    .titles {
+        padding-top: 20px;
+        margin-bottom: 22px;
+    }
+    .videoTitle {
+        font-size: 40px;
+    }
+    .tryNow {
+        text-align: center;
+        margin-top: 100px;
+    }
+    #new {
+        padding: 81px 0 66px;
+    }
+    .nameOfTopic {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .topicLink {
+        font-size: 20px;
+    }
+    .ellipsis {
+        font-size: 20px;
+    }
+    .firstArticle {
+        padding-top: 15px;
+    }
+    .articles {
+        font-size: 12px;
+    }
+    .secondArticle {
+        padding-top: 10px;
+    }
     .triangleRight {
         display: none;
     }
     .triangleRightPhone {
         display: inline-block;
+        width: 100px;
+        right: -195px;
+        transform: skew(-40deg);
+
+    }
+    #features {
+        padding: 70px 0 85px;
+    }
+    .titleOfTopic {
+        font-size: 24px;
+    }
+    .advantagesItem {
+        padding-top: 46px;
     }
 
     .triangleTopRight {
-        width: 103px;
-        transform: skew(26deg);
+        width: 90px;
+        transform: skew(43deg);
+        right: -280px;
     }
 }
 @media only screen
 and (min-device-width : 569px)
 and (max-device-width : 767px) {
+    #head {
+        padding-bottom: 100px;
+    }
+    .titles {
+        padding-top: 20px;
+        margin-bottom: 22px;
+    }
+    .videoTitle {
+        font-size: 40px;
+    }
+    .tryNow {
+        text-align: center;
+        margin-top: 100px;
+    }
+    #new {
+        padding: 81px 0 66px;
+    }
+    .nameOfTopic {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .topicLink {
+        font-size: 20px;
+    }
+    .ellipsis {
+        font-size: 20px;
+    }
+    .firstArticle {
+        padding-top: 15px;
+    }
+    .articles {
+        font-size: 12px;
+    }
+    .secondArticle {
+        padding-top: 10px;
+    }
     .triangleRight {
         display: none;
     }
     .triangleRightPhone {
         display: inline-block;
-        right: -418px;
-        width: 225px;
-        transform: skew(-45deg);
+        width: 100px;
+        right: -170px;
+        transform: skew(-40deg);
+    }
+    #features {
+        padding: 70px 0 85px;
+    }
+    .titleOfTopic {
+        font-size: 24px;
+    }
+    .advantagesItem {
+        padding-top: 46px;
     }
 
     .triangleTopRight {
-        width: 103px;
-        transform: skew(26deg);
+        width: 100px;
+        transform: skew(40deg);
+        right: -233px;
     }
 }
 @media only screen
 and (min-device-width : 768px)
 and (max-device-width: 991px) {
+    #head {
+        padding-bottom: 100px;
+    }
+    .titles {
+        padding-top: 20px;
+        margin-bottom: 22px;
+    }
+    .videoTitle {
+        font-size: 40px;
+    }
+    .tryNow {
+        text-align: center;
+        margin-top: 100px;
+    }
+    #new {
+        padding: 81px 0 66px;
+    }
+    .nameOfTopic {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .topicLink {
+        font-size: 20px;
+    }
+    .ellipsis {
+        font-size: 20px;
+    }
+    .firstArticle {
+        padding-top: 15px;
+    }
+    .articles {
+        font-size: 12px;
+    }
+    .secondArticle {
+        padding-top: 10px;
+    }
     .triangleRight {
         display: none;
     }
     .triangleRightPhone {
         display: inline-block;
         right: -441px;
-        width: 300px;
+        width: 400px;
         transform: skew(-45deg);
-
+    }
+    #features {
+        padding: 70px 0 85px;
+    }
+    .titleOfTopic {
+        font-size: 24px;
+    }
+    .advantagesItem {
+        padding-top: 46px;
     }
     .triangleTopRight {
-        width: 100px;
-        right: -158px;
+        width: 140px;
+        right: -200px;
     }
 }
 @media only screen
