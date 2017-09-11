@@ -47,6 +47,7 @@ and (max-device-width: 991px) {
     }
     .triangleTopRight {
         width: 100px;
+        right: -158px;
     }
 }
 @media only screen

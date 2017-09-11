@@ -93,26 +93,20 @@ body {
 	left: 0;
 	right: 0;
 }
-.iconPlay::before {
-	content: "";
-	width: 34px;
-	height: 14px;
-	border-left: 1px solid white;
-	position: absolute;
-	top: 21px;
-	left: 25px;
-}
 .iconPlay::after {
 	content: "";
 	position: absolute;
 	margin: auto;
-	top: 22px;
-	left: 20px;
-	width: 13px;
-	height: 12px;
-	transform: rotate(45deg) skew(-14deg, -12deg);
-	border-top: 1px solid white;
-	border-right: 1px solid white;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: -5px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	-webkit-transform: rotate(360deg);
+	border-width: 10px 0 10px 17.3px;
+	border-color: transparent transparent transparent #ffffff;
  }
 .tryNow {
 	text-align: center;
