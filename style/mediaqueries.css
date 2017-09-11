@@ -40,7 +40,7 @@ and (max-device-width: 991px) {
     }
     .triangleRightPhone {
         display: inline-block;
-        right: -336px;
+        right: -441px;
         width: 300px;
         transform: skew(-45deg);
 
@@ -54,7 +54,7 @@ and (max-device-width: 991px) {
 and (min-device-width : 992px)
 and (max-device-width: 1023px) {
     .triangleRight {
-        border-width: 0 0 665px 349px;
+        border-width: 0 0 833px 349px;
     }
     .triangleTopRight {
         width: 150px;
@@ -64,7 +64,7 @@ and (max-device-width: 1023px) {
 and (min-device-width: 1024px)
 and (max-device-width : 1300px){
     .triangleRight {
-        border-width: 0 0 665px 349px;
+        border-width: 0 0 833px 349px;
     }
     .triangleTopRight {
         width: 150px;
