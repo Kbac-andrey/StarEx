@@ -354,23 +354,23 @@ body {
 	background-position: 0 0;
 }
 .socialLink.glob:hover {
-	background-position: 0 -46px;
+	background-position: 0 -45px;
 }
 .socialLink.fb {
-	background-position: -51px 0;
+	background-position: -52px 2px;
 }
 .socialLink.fb:hover {
 	background-position: -51px -46px;
 }
 .socialLink.gooPlus {
-	background-position: 97px 0;
+	background-position: 95px 1px;
 }
 .socialLink.gooPlus:hover {
-	background-position: -97px -46px;
+	background-position: -95px -44px;
 }
 .socialLink.tw {
-	background-position: 47px 0;
+	background-position: 48px 1px;
 }
 .socialLink.tw:hover {
-	background-position: 47px -47px;
+	background-position: 47px -46px;
 }
