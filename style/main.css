@@ -109,7 +109,7 @@ body {
 	border-color: transparent transparent transparent #ffffff;
  }
 .iconPlay:hover:after{
-	border-color: transparent transparent transparent #e5e5e6;
+	border-color: transparent transparent transparent #333;
 }
 .tryNow {
 	text-align: center;
