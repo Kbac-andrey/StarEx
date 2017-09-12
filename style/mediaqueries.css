@@ -62,7 +62,7 @@ and (max-device-width : 568px) {
     .triangleTopRight {
         width: 90px;
         transform: skew(43deg);
-        right: -280px;
+        right: -290px;
     }
 }
 @media only screen
@@ -130,7 +130,7 @@ and (max-device-width : 767px) {
     .triangleTopRight {
         width: 100px;
         transform: skew(40deg);
-        right: -233px;
+        right: -253px;
     }
 }
 @media only screen
@@ -193,7 +193,7 @@ and (max-device-width: 991px) {
     }
     .triangleTopRight {
         width: 140px;
-        right: -200px;
+        right: -220px;
     }
 }
 @media only screen
@@ -207,6 +207,7 @@ and (max-device-width: 1023px) {
     }
     .triangleTopRight {
         width: 150px;
+        right: -160px;
     }
 }
 @media only screen
