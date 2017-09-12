@@ -108,6 +108,9 @@ body {
 	border-width: 10px 0 10px 17.3px;
 	border-color: transparent transparent transparent #ffffff;
  }
+.iconPlay:hover:after{
+	border-color: transparent transparent transparent #e5e5e6;
+}
 .tryNow {
 	text-align: center;
 	margin-top: 145px;
