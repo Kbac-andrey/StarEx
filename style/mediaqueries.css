@@ -200,7 +200,7 @@ and (max-device-width: 991px) {
 and (min-device-width : 992px)
 and (max-device-width: 1023px) {
     .triangleRight {
-        border-width: 0 0 833px 349px;
+        border-width: 355px 0 425px 437px;
     }
     #features {
         background: url(image/features/features1.jpg) left 20px top 0 no-repeat, url(image/features/features2.jpg) right 20px top 0 no-repeat,url(image/features/features3.jpg) right 0 bottom 0 no-repeat;
@@ -212,9 +212,7 @@ and (max-device-width: 1023px) {
 @media only screen
 and (min-device-width: 1024px)
 and (max-device-width : 1300px){
-    .triangleRight {
-        border-width: 0 0 833px 349px;
-    }
+
     .triangleTopRight {
         width: 150px;
     }

@@ -138,6 +138,7 @@ body {
 	font-family:'Exo Regular', sans-serif;
 	font-size: 15px;
 	color: #e5e5e6;
+	text-shadow: 0 0 2px #000;
 	margin-top: 20px;
 }
 
@@ -153,6 +154,7 @@ body {
 	outline: none;
 	font-family: "Exo Medium", sans-serif;
 	font-size: 40px;
+	color: #282828;
 }
 .topicLink:hover {
 	text-decoration: none;
@@ -198,7 +200,7 @@ body {
 	right: 0;
 	height: 0;
 	border-style: solid;
-	border-width: 0 0 687px 535px;
+	border-width: 255px 0 505px 537px;
 	border-color: transparent transparent #fb8686 transparent;
 	line-height: 0;
 	_border-color: #000000 #000000 #ff6d6d #000000;
