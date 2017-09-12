@@ -50,6 +50,7 @@ and (max-device-width : 568px) {
     }
     #features {
         padding: 70px 0 85px;
+        background: none;
     }
     .titleOfTopic {
         font-size: 24px;
@@ -113,7 +114,8 @@ and (max-device-width : 767px) {
         transform: skew(-40deg);
     }
     #features {
-        padding: 70px 0 85px;
+        padding: 150px 0 130px;
+        background: url(image/features/features1.jpg) left 0 top 0 no-repeat, url(image/features/features2.jpg) right 0 top 0 no-repeat,url(image/features/features3.jpg) right 0 bottom 0 no-repeat;
     }
     .titleOfTopic {
         font-size: 24px;
@@ -177,7 +179,8 @@ and (max-device-width: 991px) {
         transform: skew(-45deg);
     }
     #features {
-        padding: 70px 0 85px;
+        padding: 150px 0 130px;
+        background: url(image/features/features1.jpg) left 0 top 0 no-repeat, url(image/features/features2.jpg) right 0 top 0 no-repeat,url(image/features/features3.jpg) right 0 bottom 0 no-repeat;
     }
     .titleOfTopic {
         font-size: 24px;
@@ -195,6 +198,9 @@ and (min-device-width : 992px)
 and (max-device-width: 1023px) {
     .triangleRight {
         border-width: 0 0 833px 349px;
+    }
+    #features {
+        background: url(image/features/features1.jpg) left 20px top 0 no-repeat, url(image/features/features2.jpg) right 20px top 0 no-repeat,url(image/features/features3.jpg) right 0 bottom 0 no-repeat;
     }
     .triangleTopRight {
         width: 150px;

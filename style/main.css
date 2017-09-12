@@ -212,11 +212,8 @@ body {
 }
 /*-----------features------------*/
 #features {
-	background: url("image/features/featuresBan.jpg")no-repeat center top;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
 	padding: 140px 0 170px;
+	background: url(image/features/features1.jpg) left 60px top 0 no-repeat, url(image/features/features2.jpg) right 100px top 0 no-repeat,url(image/features/features3.jpg) right 70px bottom 0 no-repeat;
 }
 .newFeatures {
 	text-align: center;
